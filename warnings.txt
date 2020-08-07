@@ -1,0 +1,4 @@
+
+FECHA           HORA       NOMBRE SERVICIO             GRAVEDAD     MENSAJE DE ERROR
+06/08/2020      11:13           ScriptCache.exe               2      Connection lost
+12/08/2020      18:14           ScriptCache.exe               2      Connection lost

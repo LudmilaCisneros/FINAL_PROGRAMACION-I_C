@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1596749474 source:c:\users\lu\desktop\final integrador\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"Controller.h"
+	"S_logentry.h"
+	"Parser.h"
+
+1596141777 c:\users\lu\desktop\final integrador\utn.h
+
+1596738720 c:\users\lu\desktop\final integrador\controller.h
+	"LinkedList.h"
+
+1596748497 c:\users\lu\desktop\final integrador\linkedlist.h
+
+1596748418 c:\users\lu\desktop\final integrador\s_logentry.h
+
+1596735258 c:\users\lu\desktop\final integrador\parser.h
+	"LinkedList.h"
+
+1596748490 source:c:\users\lu\desktop\final integrador\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596745376 source:c:\users\lu\desktop\final integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"LinkedList.h"
+	"Controller.h"
+
+1596744686 source:c:\users\lu\desktop\final integrador\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"S_logentry.h"
+	"LinkedList.h"
+
+1596749156 source:c:\users\lu\desktop\final integrador\s_logentry.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"S_logentry.h"
+
+1596745329 source:c:\users\lu\desktop\final integrador\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
